@@ -6,7 +6,7 @@ namespace CybersecurityAwarenessBot_Part1
 {
     internal class Program
     {
-        private static string userName = string.Empty;
+        private static string userName = string.Empty; 
 
         static void Main(string[] args)
         {
