@@ -32,7 +32,7 @@ namespace CybersecurityAwarenessBot_Part1
 
         private static void PlayVoiceGreeting()
         {
-            try
+            try 
             {
                 using (SpeechSynthesizer synthesizer = new SpeechSynthesizer())
                 {
